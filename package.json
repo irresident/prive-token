@@ -1,0 +1,21 @@
+{
+    "name": "prive-token",
+    "version": "0.1.0",
+    "description": "Irresident Privé Token and Crowdsale.",
+    "private": true,
+    "main": "truffle.js",
+    "keywords": [
+        "solidity",
+        "ethereum",
+        "w3",
+        "irresident",
+        "privé"
+    ],
+    "author": "Irresident Ltd.",
+    "license": "Proprietary",
+    "devDependencies": {
+        "bignumber.js": "^4.0.0",
+        "chai-bignumber": "^2.0.2",
+        "openzeppelin-solidity": "1.9.0"
+    }
+}

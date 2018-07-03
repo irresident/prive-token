@@ -1,0 +1,28 @@
+node_modules
+
+# Editors and IDEs
+*.sublime-workspace
+Session.vim
+.idea/*
+.vscode/*
+
+# Linux from https://github.com/github/gitignore/blob/master/Global/Linux.gitignore
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# OSX from https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windoze from https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+*.lnk
