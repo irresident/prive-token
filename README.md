@@ -2,7 +2,7 @@
 
 This project uses [Truffle Framework](http://truffleframework.com/) and [OpenZeppelin Solidity v1.9.0](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/v1.9.0). You will need:
 * node 8.4+, if you want to get dependencies or compile the contracts
-* truffle 4.1.11 or later installed globally, but only if you want to compile the contracts
+
 
 ## Ropsten
 
