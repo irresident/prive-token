@@ -1,9 +1,8 @@
 {
     "name": "prive-token",
-    "version": "0.1.0",
-    "description": "Irresident Privé Token and Crowdsale.",
+    "version": "1.0.0",
+    "description": "Privé software platform token and crowdsale smart contracts.",
     "private": true,
-    "main": "truffle.js",
     "keywords": [
         "solidity",
         "ethereum",
@@ -12,10 +11,14 @@
         "privé"
     ],
     "author": "Irresident Ltd.",
-    "license": "Proprietary",
+    "license": "UNLICENSED",
+    "peerDependencies": {},
     "devDependencies": {
-        "bignumber.js": "^4.0.0",
-        "chai-bignumber": "^2.0.2",
-        "openzeppelin-solidity": "1.9.0"
-    }
+        "dotenv": "6.1.0",
+        "dotenv-expand": "4.2.0",
+        "openzeppelin-solidity": "1.9.0",
+        "truffle": "4.1.14",
+        "truffle-hdwallet-provider": "0.0.5"
+    },
+    "dependencies": {}
 }
